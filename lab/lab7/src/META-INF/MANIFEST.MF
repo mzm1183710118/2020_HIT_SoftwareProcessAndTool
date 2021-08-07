@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: JUnitTest
+Class-Path: org.hamcrest.core_1.3.0.v20180420-1519.jar junit.jar
+

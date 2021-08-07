@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="lab7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab7_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lab7.jar">
+        <element id="module-output" name="lab7" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../Lab1-1183710118/lib/org.hamcrest.core_1.3.0.v20180420-1519.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../Lab1-1183710118/lib/junit.jar" />
+    </root>
+  </artifact>
+</component>
